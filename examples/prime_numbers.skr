@@ -1,0 +1,3 @@
+# Minimal starting point for a prime-number program.
+number = 29
+print(number)
